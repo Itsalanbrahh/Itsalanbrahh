@@ -1,8 +1,9 @@
-# Alan
+# Alan Ruelas
+
+Director of Pricing, Yield & Analytics at **Best Bay Logistics** — Irvine, CA. I lead the Pricing, Yield, Analytics, and Tech teams.
 
 I build tools that help freight brokers move freight smarter — and multi-agent systems that make decisions under uncertainty.
 
-Day job: logistics software at **Best Bay** (pricing, capacity, cargo risk, data).  
 Side work: autonomous trading intelligence and agent ensembles.
 
 ---
@@ -31,6 +32,8 @@ Much of my Best Bay work (Capacity OS, Sentry, BPTE, warehouse/ops) lives in pri
 - Turning messy logistics data into decisions people actually use
 
 ---
+
+Find me on [LinkedIn](https://www.linkedin.com/in/alan-ruelas-0399bab2).
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Itsalanbrahh&show_icons=true&hide_border=true&theme=transparent&count_private=true" height="140" alt="GitHub stats" />
